@@ -19,7 +19,8 @@ By leveraging AI models and multimodal input methods, the app streamlines how us
 - **APIs:** OpenAI GPT-3, DALL-E  
 
 # Project Structure
-/leftover-hub
+'''
+.
  ┣ code/                 (Flutter app source code)
  ┣ assets/               (Image models and other resources)
  ┣ Final_Report.pdf
@@ -27,4 +28,4 @@ By leveraging AI models and multimodal input methods, the app streamlines how us
  ┣ Poster.pdf
  ┣ leftover_hub_demo.mp4
  ┗ README.md
-
+'''
