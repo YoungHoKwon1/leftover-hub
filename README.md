@@ -21,8 +21,7 @@ By leveraging AI models and multimodal input methods, the app streamlines how us
 # Project Structure
 ```
 .
- ┣ code/                 (Flutter app source code)
- ┣ assets/               (Image models and other resources)
+ ┣ code/                 (Flutter and Machine Learning source code)
  ┣ Final_Report.pdf
  ┣ Final_Presentation.pdf
  ┣ Poster.pdf
